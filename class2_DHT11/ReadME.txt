@@ -1,0 +1,1 @@
+In this project, I learnt how to control and use the DHT11 temperature and humidity sensor usind the ESP-IDF development environment.

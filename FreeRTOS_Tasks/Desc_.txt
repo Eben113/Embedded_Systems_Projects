@@ -1,0 +1,6 @@
+For the first task, I read data from a potentiometer, logged it onto the serial monitor and turned on the LED  when
+the potentiometer voltage went over the threshold (about 70% of the maximum voltage)
+
+For the sencond task, the LED blinked at a rate that changed when a pushbutton was pressed, and the respective blink mode was indicated on the serial monitor
+
+I used an ESP32 board on a simulator for both tasks, and included videos for both of them
