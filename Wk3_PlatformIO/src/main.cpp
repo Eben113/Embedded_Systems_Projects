@@ -82,4 +82,4 @@ void loop() {
     Serial.print(event.relative_humidity);
     Serial.println(F("%"));
   }
-}
+}Commit on 2025-10-01T12:00:00
